@@ -1,0 +1,28 @@
+{
+  "name": "react-mobile-build",
+  "main": "react.js",
+  "version": "0.12.2",
+  "homepage": "https://github.com/jgable/react",
+  "authors": [
+    "Jacob Gable <jacob.gable@gmail.com>"
+  ],
+  "description": "Mobile build of React with TapEventPlugin initialized",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "React",
+    "mobile",
+    "tap"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
